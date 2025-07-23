@@ -45,5 +45,6 @@
 
 ### 📊 GitHub Stats:
 
-![Esana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsanaKomudi&show_icons=true&theme=radical)
+![Esana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsanaKomudi&show_icons=true&theme=radical&cache_seconds=60)
+
 
